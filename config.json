@@ -3,7 +3,7 @@
     "symbol": "BZK",
     "coinUnits": 1000000000000,
     "coinDifficultyTarget": 240,
-    "version": "v2.1.1",
+    "version": "v1.51",
 
     "logging": {
         "files": {
@@ -26,7 +26,7 @@
         "bonusChance": 1,
         "blockFinderBonus": 0.01,
         "clusterForks": "auto",
-	"poolAddress": "br1P7xs8K9nPeUyG3qdQD5CMxCMNvBKkUZPzqrrbPBfU56kb1HyXo9jJU4N2fWSDrkY4a1SyDiuSEDWvJUkauT4Q1HfwqBDyH",
+	"poolAddress": "br1bwtPhrJS7Tb8JhN6kzHQdKZ3aYyRcLZBx5MZKND2GaHtRYkARL5pWYwtKBT1qVK5SvM1fVgkHSVkhFAsLJVmj1FVn65WJx",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -111,7 +111,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "hahaha"
+        "password": "XXXX"
     },
 
     "daemon": {
