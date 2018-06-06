@@ -563,4 +563,5 @@ Donation
 We accept donation:
 
 BZK br1bwtPhrJS7Tb8JhN6kzHQdKZ3aYyRcLZBx5MZKND2GaHtRYkARL5pWYwtKBT1qVK5SvM1fVgkHSVkhFAsLJVmj1FVn65WJx
+
 BTC 18fRmxLX5W7fkBXMckCB4si5ze26r2irEk
