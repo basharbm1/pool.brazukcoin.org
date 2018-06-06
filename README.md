@@ -1,4 +1,4 @@
-cryptonote-brazukcoin-pool
+cryptonote-brazukcoin-pool for V4 by basharbm
 ======================
 
 High performance Node.js (with native C addons) mining pool for Cryptonote based coins.
@@ -557,3 +557,10 @@ License
 Released under the GNU General Public License v2
 
 http://www.gnu.org/licenses/gpl-2.0.html
+
+Donation
+--------
+We accept donation:
+
+BZK br1bwtPhrJS7Tb8JhN6kzHQdKZ3aYyRcLZBx5MZKND2GaHtRYkARL5pWYwtKBT1qVK5SvM1fVgkHSVkhFAsLJVmj1FVn65WJx
+BTC 18fRmxLX5W7fkBXMckCB4si5ze26r2irEk
