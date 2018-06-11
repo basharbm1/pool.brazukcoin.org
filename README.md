@@ -125,8 +125,8 @@ That said, since Ubuntu 16 come with version 4.^ of Node.js you will need to dow
 ```bash
 # install n to manage node version to use
 sudo npm install -g n
-# use node's version 0.10.^
-sudo n 0.10
+# use node's version 4.^
+sudo n 4.0
 # you can change after to lastest node's LTS by running `sudo n lts`
 # learn more with `n --help`
 ```
